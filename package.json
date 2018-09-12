@@ -1,0 +1,23 @@
+{
+  "name": "bear-node-rewrite",
+  "version": "1.0.0",
+  "description": "node基础模块以及部分第三方模块仿写",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangling098/bear-node-rewrite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangling098/bear-node-rewrite/issues"
+  },
+  "homepage": "https://github.com/kangling098/bear-node-rewrite#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.24"
+  }
+}
